@@ -1,5 +1,4 @@
-# git-command-test
-Git Commands
+# Git-Commands
 
 
 1. Create a directory to contain the project.
