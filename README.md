@@ -14,8 +14,8 @@
     or short of force -f )
 
 
-**git log**                                           => shows previous commits
-**git status**                                        => shows the status of repo
-**git config --list**                                 => shows all configuration settings
-**git clone https://github.com/username/new_rep.git** => download the specified repo
-**git rm -r --cached directoryName**                  => removes the folder from github repo
+**git log**                                           => shows previous commits  
+**git status**                                        => shows the status of repo  
+**git config --list**                                 => shows all configuration settings  
+**git clone https://github.com/username/new_rep.git** => download the specified repo  
+**git rm -r --cached directoryName**                  => removes the folder from github repo  
