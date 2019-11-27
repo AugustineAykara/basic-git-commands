@@ -1,4 +1,4 @@
-# Git-Commands
+# Basic-Git-Commands
 
 1. Create a directory to contain the project or git clone from github
 2. Go into the new directory.
